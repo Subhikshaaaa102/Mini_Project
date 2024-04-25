@@ -1,0 +1,10 @@
+Number of pages 1-16
+Number of items over 3,000
+Count Of Element in the List: 5
+Available Options:
+Featured
+Price: Low to High
+Price: High to Low
+Avg. Customer Review
+Newest Arrivals
+Newest Arrivals is Successfully Selected
